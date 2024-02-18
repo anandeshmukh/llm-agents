@@ -1,2 +1,4 @@
 secret_keys.py
 gradio_cached_examples
+.streamlit
+.streamlit/secrets.toml
